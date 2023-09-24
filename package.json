@@ -1,0 +1,24 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "\tcypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julys17/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "practice",
+    "cypress"
+  ],
+  "author": "Juliana Giraldo julys1702@gmail.com Julys17",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Julys17/cypress-training/issues"
+  },
+  "homepage": "https://github.com/Julys17/cypress-training#readme"
+}
